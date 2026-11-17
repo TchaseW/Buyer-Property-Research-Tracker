@@ -14,6 +14,10 @@ The program allows users to manage property information, track buyer preferences
 
 ![Property List - Part 2](property-list-2.png)
 
+## Buyer Saved Properties
+
+![Buyer Saved Properties](buyer-saved-properties.png)
+
 ## Features
 
 - Add and store property information.
