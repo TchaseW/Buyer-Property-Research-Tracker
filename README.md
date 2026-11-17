@@ -8,6 +8,12 @@ The program allows users to manage property information, track buyer preferences
 
 ![Buyer Property Research Tracker Main Menu](main-menu.png)
 
+## Property Listings
+
+![Property List - Part 1](property-list-1.png)
+
+![Property List - Part 2](property-list-2.png)
+
 ## Features
 
 - Add and store property information.
