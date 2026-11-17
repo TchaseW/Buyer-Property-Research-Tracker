@@ -6,6 +6,8 @@ The Buyer Property Research Tracker is a Python-based application designed to he
 
 The program allows users to manage property information, track buyer preferences, save properties for individual buyers, and organize favorite properties.
 
+![Buyer Property Research Tracker Main Menu](main-menu.png)
+
 ## Features
 
 - Add and store property information.
