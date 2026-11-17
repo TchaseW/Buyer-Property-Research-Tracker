@@ -1,0 +1,43 @@
+[
+    {
+        "buyer_id": 1,
+        "name": "Sarah",
+        "locations": [
+            "Morristown",
+            "Sevierville"
+        ],
+        "max_budget": 400000,
+        "min_bedrooms": 3,
+        "property_types": [
+            "Ranch",
+            "Tudor",
+            "Cottage"
+        ],
+        "saved_properties": [
+            5
+        ],
+        "favorites": [
+            5
+        ]
+    },
+    {
+        "buyer_id": 2,
+        "name": "Michael",
+        "locations": [
+            "Knoxville",
+            "Jefferson City"
+        ],
+        "max_budget": 300000,
+        "min_bedrooms": 2,
+        "property_types": [
+            "Cottage",
+            "Farmhouse"
+        ],
+        "saved_properties": [
+            6
+        ],
+        "favorites": [
+            6
+        ]
+    }
+]

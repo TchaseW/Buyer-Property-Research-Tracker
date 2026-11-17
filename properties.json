@@ -1,0 +1,80 @@
+[
+    {
+        "property_id": 1,
+        "address": "789 South Main Street",
+        "city": "Morristown",
+        "state": "TN",
+        "price": 325000.0,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1900,
+        "property_type": "Cottage",
+        "lot_size": 0.75,
+        "property_category": "Residential"
+    },
+    {
+        "property_id": 2,
+        "address": "123 Main Street",
+        "city": "Morristown",
+        "state": "TN",
+        "price": 275000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 1800,
+        "property_type": "Ranch",
+        "lot_size": 0.5,
+        "property_category": "Residential"
+    },
+    {
+        "property_id": 3,
+        "address": "456 Oak Lane",
+        "city": "Sevierville",
+        "state": "TN",
+        "price": 350000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_feet": 2200,
+        "property_type": "Tudor",
+        "lot_size": 1.2,
+        "property_category": "Residential"
+    },
+    {
+        "property_id": 4,
+        "address": "Highway 25E",
+        "city": "Morristown",
+        "state": "TN",
+        "price": 125000,
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "square_feet": 0,
+        "property_type": "Vacant Land",
+        "lot_size": 5.5,
+        "property_category": "Land"
+    },
+    {
+        "property_id": 5,
+        "address": "456 North Main Street",
+        "city": "Morristown",
+        "state": "TN",
+        "price": 650000.0,
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "square_feet": 3200,
+        "property_type": "Cottage",
+        "lot_size": 1.5,
+        "property_category": "Residential"
+    },
+    {
+        "property_id": 6,
+        "address": "987 Dover Lane",
+        "city": "Rogersville",
+        "state": "TN",
+        "price": 290000.0,
+        "bedrooms": 4,
+        "bathrooms": 2.0,
+        "square_feet": 1800,
+        "property_type": "Ranch",
+        "lot_size": 3.2,
+        "property_category": "Residential"
+    }
+]
